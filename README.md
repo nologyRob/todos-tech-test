@@ -8,17 +8,16 @@
 
 ## The Task
 
-We’re going to recap our understanding of HTML, SCSS, and JavaScript by doing a tech test.
+We’re going to recap our understanding of HTML, SCSS, and React JS by doing a tech test.
 A tech test commonly used as part of the interview process when applying for a developer
 job. They are generally open-ended and can have time constraints, companies want to see
-how you approach a problem, and what you’ve chosen to focus on.<br/><br/>
+how you approach a problem, and what you’ve chosen to focus on.
 
-You have been tasked with creating a prototype Todo application for a small business.
-Unfortunately they’re on a major time constraint, but fortunately they’ve got a cracking
-designer and made a [design spec](https://www.figma.com/file/bIY6FFhmPKC7N6xmjgV5WQ/Tech-Test---MyTodos?node-id=0%3A1) for you to follow.<br/><br/>
+You have been tasked with creating a prototype Todo application for a small business.  Unfortunately they’re on a major time constraint, but fortunately they’ve got a cracking designer who has made a short loom video (https://www.loom.com/share/1da587da8e644395b3a731f137825bb7) to help you understand what they would like made.
+
 
 <p style="font-style: italic";>“We’re going to be showing off our new application (MyTodos) to some investors this
-afternoon. Right now we’ve got some great designs but we need those turned into a prototype
+afternoon. Right now we’ve got some great ideas but we need those turned into a prototype
 so the investors can get a proper feel for how the site is going to work. We want to give them a
 link to the site that they can open it on their phones during our demo.”</p>
 
